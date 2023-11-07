@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author jarde
+ *
+ */
+module DioDesafioPadroesDeProjetos {
+}
