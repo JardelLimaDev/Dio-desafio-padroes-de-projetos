@@ -1,6 +1,6 @@
 
 # Abstract Factory 🏭
-Neste desafio elaborado pela  [DIO](https://web.dio.me/home) vimos três tipos de padrões de projetos. Padrão criacional, vimos o Singleton. Padrão estrutural, facade. E Padrão comportamental, foi visto o Strategy. Combinando teoria e prática, destes padrões, podemos também pôr em prática os padrões de projetos em uma API REST com Spring. 
+Neste desafio elaborado pela  [DIO](https://web.dio.me/home) vimos três tipos de padrões de projetos. Padrão criacional, vimos o Singleton. Padrão estrutural, facade. E Padrão comportamental, foi visto o Strategy. Combinando teoria e prática, destes padrões, podemos pôr em prática os padrões de projetos em uma API REST com Spring. 
 
 ### Obtetivo 🎯
 Como objetivo a alcançar, fomos desafiados a implementar um padrão de projeto que não foi abordado no módulo. Como o titulo desse readme demostra, o escolhido por mim foi o Abstract Factory.
